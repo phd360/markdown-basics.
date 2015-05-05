@@ -80,7 +80,6 @@ Você pode criar listas aninhadas pelo recuo itens da lista por dois espaços.
  <code> 1. </code> Uma conclusão do item acima. 
  
  <code> 2. </code> No entanto, outro ponto a considerar.  
- 
 2. Número 2
 
  <code> * </code> Um resultado que não precisa ser solicitado. 
