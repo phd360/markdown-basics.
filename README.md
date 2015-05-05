@@ -3,7 +3,7 @@
 #Noções básicas de remarcação
 [Markdown](http://daringfireball.net/projects/markdown/) permite  você escrever usando um formato de texto simples fácil-de-ler, fácil-de-escrever, que então se converte em HTML válida para visualização no GitHub
 
-##Escrita básica
+ ## 1.Escrita básica
 
 ###Parágrafos
 Parágrafos em Markdown são apenas uma ou mais linhas de texto consecutivos seguido por uma ou mais linhas em branco.
@@ -17,50 +17,56 @@ Em 3 de julho, os Cavaleiros Negros, um esquadrão de Marine Corps F / A-18 Horn
 
 Você pode criar um título, adicionando um ou mais # símbolos antes de seu texto de título. O número de # você usa irá determinar o tamanho do título.
 
-# O maior título (uma tag <h1>) 
-## A segunda maior rubrica (uma <h2> tag) 
-... 
-###### O 6º maior título (uma <h6> tag)
+<code>#</code> O maior título (uma tag <h1>) 
+
+<code>##</code> A segunda maior rubrica (uma <h2> tag) 
+
+<code>######</code> O 6º maior título (uma <h6> tag)
+
 ###Blockquotes
 
 Você pode indicar [blockquotes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blockquote) com um > .
 
 Nas palavras de Abraham Lincoln: 
 
-> Pardon meu francês
+<code>></code> Pardon meu francês
 
 ###Estilo de Texto 
 
 Você pode fazer o texto [**em negrito**](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong) ou [*itálico*](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/em).
 
-* Este texto será itálico * 
+<code>*</code>     Este texto será itálico    <code>*</code> 
 
-** Este texto vai ser ousado **
+<code>**</code>    Este texto vai ser ousado   <code>**</code>
 
 Ambos **negrito** e _itálico_ pode usar um * ou um _ em torno do texto para o estilo. Isso permite que você combine os dois, em negrito e itálico, se necessário.
 
 ** Todos _deve_ participar da reunião às 5 horas de hoje. **
-###Listas
+### 2.Listas
 
 ####Listas não ordenadas
 
 Você pode fazer uma [lista desordenada] (https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul) precedendo itens da lista ou com um * ou um - .
 
-* Item 
-* Item 
-* Item 
+<code>*</code>Item 
 
-- item 
-- item 
-- item
+<code>*</code>Item
+
+<code>*</code>Item 
+
+<code>-</code>item 
+
+<code>-</code>item 
+
+<code>-</code>item
 
 ####Listas ordenadas
 
 Você pode fazer uma [lista ordenada] (https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol) precedendo itens da lista com um número.
 
-1. Item 1 
-2. Número 2 
-3. O item 3
+<code>1.</code> Item 1 
+<code>2.</code> Número 2 
+<code>3.</code> O item 3
 Listas aninhadas
 
 Você pode criar listas aninhadas pelo recuo itens da lista por dois espaços.
@@ -83,7 +89,7 @@ Use backticks simples ( ` ) para formatar o texto em um formato especial monospa
 Aqui está uma idéia: por que não vamos pegar `SuperiorProject` e transformá-lo em` ** ** project` razoável.
 ####Várias linhas
 
-Você pode usar acentos graves triplos ( `` ` ) para formatar o texto como seu próprio bloco distinta.
+Você pode usar acentos graves triplos ( `` ` ) para formatar o texto como seu próprio bloco distinto.
 
 Confira este programa puro que eu escrevi: 
 
