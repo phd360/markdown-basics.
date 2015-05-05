@@ -95,14 +95,15 @@ Use backticks simples ( ` ) para formatar o texto em um formato especial monospa
 
 Você pode usar acentos graves triplos ( `` ` )  para formatar o texto como seu próprio bloco distinto.
 
-Confira este programa puro que eu escrevi: 
+> <code> Confira este programa puro que eu escrevi: </code> 
 
-> <code> `` </code> <code> ` </code>
+> <code> ``` </code>
+
 x = 0 
 x = 2 + 2 
 que é x 
 
-> <code> `` </code>  <code> ` </code>
+> <code> ``` </code>
 
 ###Links
 
