@@ -76,9 +76,12 @@ Você pode fazer uma [lista ordenada] (https://developer.mozilla.org/en-US/docs/
 Você pode criar listas aninhadas pelo recuo itens da lista por dois espaços.
 
 1. Item 1 
-  1. Uma conclusão do item acima. 
-  2. No entanto, outro ponto a considerar. 
-2. Número 2 
+ <code> 1. Uma conclusão do item acima. </code>
+ > <code> 2. </code> No entanto, outro ponto a considerar. 
+
+  
+2. Número 2
+
   <code> * Um resultado que não precisa ser solicitado. </code>
 
   <code> * Este é recuado quatro espaços, porque é dois espaços mais longe do que o item acima. </code> 
@@ -91,7 +94,7 @@ Você pode criar listas aninhadas pelo recuo itens da lista por dois espaços.
 
 ####Formatos em linha
 
-Use backticks simples (> <code>`</code>) para formatar o texto em um formato especial monospace. Tudo dentro dos acentos graves aparecem como está, sem nenhuma outra formatação especial.
+Use backticks simples ( <code>`</code>) para formatar o texto em um formato especial monospace. Tudo dentro dos acentos graves aparecem como está, sem nenhuma outra formatação especial.
 
 > <code> Aqui está uma idéia: por que não vamos pegar `SuperiorProject` e transformá-lo em` ** ** project` razoável.</code>
 ####Várias linhas 
