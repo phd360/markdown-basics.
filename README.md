@@ -21,13 +21,13 @@ Você pode criar um título, adicionando um ou mais # símbolos antes de seu tex
 
 > <code>##</code> A segunda maior rubrica (uma h2 tag) 
 
-> <code>######</code> O 6º maior título (uma h6 tag)
+> <code>###### O 6º maior título (uma h6 tag) </code>
 
 ###Blockquotes
 
 Você pode indicar [blockquotes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blockquote) com um > .
 
-Nas palavras de Abraham Lincoln: 
+> <code> Nas palavras de Abraham Lincoln: </code> 
 
 > <code>></code> Pardon meu francês
 
@@ -41,7 +41,7 @@ Você pode fazer o texto [**em negrito**](https://developer.mozilla.org/en-US/do
 
 Ambos **negrito** e _itálico_ pode usar um * ou um _ em torno do texto para o estilo. Isso permite que você combine os dois, em negrito e itálico, se necessário.
 
-> <code> ** Todos _deve_ participar da reunião às 5 horas de hoje. ** </code>
+> <code> ** Todos _devem_ participar da reunião às 5 horas de hoje. ** </code>
 
 ###Listas
 
