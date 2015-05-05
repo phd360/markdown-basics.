@@ -99,9 +99,11 @@ Você pode usar acentos graves triplos ( `` ` )  para formatar o texto como seu 
 
 > <code> ``` </code>
 
-x = 0 
-x = 2 + 2 
-que é x 
+> <code> x = 0 </code>
+
+> <code> x = 2 + 2 </code>
+
+> <code> que é x </code>
 
 > <code> ``` </code>
 
