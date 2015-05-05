@@ -17,9 +17,9 @@ Parágrafos em Markdown são apenas uma ou mais linhas de texto consecutivos seg
 
 Você pode criar um título, adicionando um ou mais # símbolos antes de seu texto de título. O número de # você usa irá determinar o tamanho do título.
 
-> <code>#</code> O maior título (uma tag h1) 
+> <code># O maior título (uma tag h1) </code>
 
-> <code>##</code> A segunda maior rubrica (uma h2 tag) 
+> <code>## A segunda maior rubrica (uma h2 tag) </code>
 
 > <code>###### O 6º maior título (uma h6 tag) </code>
 
