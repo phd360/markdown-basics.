@@ -39,7 +39,7 @@ Você pode fazer o texto [**em negrito**](https://developer.mozilla.org/en-US/do
 
 > <code>** Este texto vai ser ousado **</code>
 
-Ambos **negrito** e _itálico_ pode usar um * ou um _ em torno do texto para o estilo. Isso permite que você combine os dois, em negrito e itálico, se necessário.
+Ambos **negrito** e _itálico_ pode usar um <code>*</code> ou um <code> _</code> em torno do texto para o estilo. Isso permite que você combine os dois, em negrito e itálico, se necessário.
 
 > <code> ** Todos _devem_ participar da reunião às 5 horas de hoje. ** </code>
 
@@ -96,6 +96,7 @@ Você pode criar listas aninhadas pelo recuo itens da lista por dois espaços.
 Use backticks simples ( <code>`</code>) para formatar o texto em um formato especial monospace. Tudo dentro dos acentos graves aparecem como está, sem nenhuma outra formatação especial.
 
 > <code> Aqui está uma idéia: por que não vamos pegar `SuperiorProject` e transformá-lo em` ** ** project` razoável.</code>
+
 ####Várias linhas 
 
 Você pode usar acentos graves triplos ( `` ` )  para formatar o texto como seu próprio bloco distinto.
