@@ -3,25 +3,25 @@
 #Noções básicas de remarcação
 [Markdown](http://daringfireball.net/projects/markdown/) permite  você escrever usando um formato de texto simples fácil-de-ler, fácil-de-escrever, que então se converte em HTML válida para visualização no GitHub
 
-## 1.Escrita básica
+##Escrita básica
 
 ###Parágrafos
 Parágrafos em Markdown são apenas uma ou mais linhas de texto consecutivos seguido por uma ou mais linhas em branco.
 
 
-Em 2 de julho, uma nave-mãe alienígena entrou em órbita da Terra e implantado várias dezenas de naves espaciais em forma de pires "destruidor", a cada 15 milhas (24 quilômetros) de largura.
+> <code> Em 2 de julho, uma nave-mãe alienígena entrou em órbita da Terra e implantado várias dezenas de naves espaciais em forma de pires "destruidor", a cada 15 milhas (24 quilômetros) de largura. </code>
 
-Em 3 de julho, os Cavaleiros Negros, um esquadrão de Marine Corps F / A-18 Hornets, participou de um assalto em um destroyer perto da cidade de Los Angeles.
+> <code> Em 3 de julho, os Cavaleiros Negros, um esquadrão de Marine Corps F / A-18 Hornets, participou de um assalto em um destroyer perto da cidade de Los Angeles. </code>
 
 ###Títulos
 
 Você pode criar um título, adicionando um ou mais # símbolos antes de seu texto de título. O número de # você usa irá determinar o tamanho do título.
 
-<code>#</code> O maior título (uma tag h1) 
+> <code>#</code> O maior título (uma tag <code> <h1> </code>) 
 
-<code>##</code> A segunda maior rubrica (uma <co<h2> tag) 
+> <code>##</code> A segunda maior rubrica (uma <code> <h2> </code> tag) 
 
-<code>######</code> O 6º maior título (uma <h6> tag)
+> <code>######</code> O 6º maior título (uma <code> <h6> </code> tag)
 
 ###Blockquotes
 
@@ -29,7 +29,7 @@ Você pode indicar [blockquotes](https://developer.mozilla.org/en-US/docs/Web/HT
 
 Nas palavras de Abraham Lincoln: 
 
-<code>></code> Pardon meu francês
+> <code>></code> Pardon meu francês
 
 ###Estilo de Texto 
 
