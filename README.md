@@ -77,7 +77,7 @@ Você pode criar listas aninhadas pelo recuo itens da lista por dois espaços.
 1. Item 1 
   1. Uma conclusão do item acima. 
   2. No entanto, outro ponto a considerar. 
-<code>2.</code> Número 2 
+2. Número 2 
   * Um resultado que não precisa ser solicitado. 
     * Este é recuado quatro espaços, porque é dois espaços mais longe do que o item acima. 
     * Você pode querer considerar fazer uma nova lista. 
