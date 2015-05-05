@@ -75,18 +75,19 @@ Você pode fazer uma [lista ordenada] (https://developer.mozilla.org/en-US/docs/
 
 Você pode criar listas aninhadas pelo recuo itens da lista por dois espaços.
 
-1. Item 1 
- <code> 1. Uma conclusão do item acima. </code>
- > <code> 2. </code> No entanto, outro ponto a considerar. 
+ 1. Item 1 
 
-  
+ > <code> 1. Uma conclusão do item acima. </code>
+ 
+ > <code> 2.  No entanto, outro ponto a considerar. </code> 
+
 2. Número 2
 
-  <code> * Um resultado que não precisa ser solicitado. </code>
+ > <code> * Um resultado que não precisa ser solicitado. </code>
 
-  <code> * Este é recuado quatro espaços, porque é dois espaços mais longe do que o item acima. </code> 
+ > <code> * Este é recuado quatro espaços, porque é dois espaços mais longe do que o item acima. </code> 
   
-  <code> * Você pode querer considerar fazer uma nova lista. </code>  
+ > <code> * Você pode querer considerar fazer uma nova lista. </code>  
   
 3. Item 3
 
