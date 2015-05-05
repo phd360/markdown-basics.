@@ -17,9 +17,9 @@ Em 3 de julho, os Cavaleiros Negros, um esquadrão de Marine Corps F / A-18 Horn
 
 Você pode criar um título, adicionando um ou mais # símbolos antes de seu texto de título. O número de # você usa irá determinar o tamanho do título.
 
-<code>#</code> O maior título (uma tag <h1>) 
+<code>#</code> O maior título (uma tag h1) 
 
-<code>##</code> A segunda maior rubrica (uma <h2> tag) 
+<code>##</code> A segunda maior rubrica (uma <co<h2> tag) 
 
 <code>######</code> O 6º maior título (uma <h6> tag)
 
