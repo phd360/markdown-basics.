@@ -3,7 +3,7 @@
 #Noções básicas de remarcação
 [Markdown](http://daringfireball.net/projects/markdown/) permite  você escrever usando um formato de texto simples fácil-de-ler, fácil-de-escrever, que então se converte em HTML válida para visualização no GitHub
 
- ## 1.Escrita básica
+## 1.Escrita básica
 
 ###Parágrafos
 Parágrafos em Markdown são apenas uma ou mais linhas de texto consecutivos seguido por uma ou mais linhas em branco.
@@ -35,9 +35,9 @@ Nas palavras de Abraham Lincoln:
 
 Você pode fazer o texto [**em negrito**](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong) ou [*itálico*](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/em).
 
-<code>*</code>     Este texto será itálico    <code>*</code> 
+> <code>* Este texto será itálico *</code> 
 
-<code>**</code>    Este texto vai ser ousado   <code>**</code>
+> <code>** Este texto vai ser ousado **</code>
 
 Ambos **negrito** e _itálico_ pode usar um * ou um _ em torno do texto para o estilo. Isso permite que você combine os dois, em negrito e itálico, se necessário.
 
@@ -64,23 +64,26 @@ Você pode fazer uma [lista desordenada] (https://developer.mozilla.org/en-US/do
 
 Você pode fazer uma [lista ordenada] (https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol) precedendo itens da lista com um número.
 
-<code>1.</code> Item 1 
-<code>2.</code> Número 2 
-<code>3.</code> O item 3
-Listas aninhadas
+<code>1.</code>Item 1 
+
+<code>2.</code>Número 2 
+
+<code>3.</code>O item 3
+
+###Listas aninhadas
 
 Você pode criar listas aninhadas pelo recuo itens da lista por dois espaços.
 
 1. Item 1 
   1. Uma conclusão do item acima. 
   2. No entanto, outro ponto a considerar. 
-2. Número 2 
+<code>2.</code> Número 2 
   * Um resultado que não precisa ser solicitado. 
     * Este é recuado quatro espaços, porque é dois espaços mais longe do que o item acima. 
     * Você pode querer considerar fazer uma nova lista. 
 3. Item 3
 
-###A formatação do código
+### 3.A formatação do código
 
 ####Formatos em linha
 
@@ -89,16 +92,17 @@ Use backticks simples ( ` ) para formatar o texto em um formato especial monospa
 Aqui está uma idéia: por que não vamos pegar `SuperiorProject` e transformá-lo em` ** ** project` razoável.
 ####Várias linhas
 
-Você pode usar acentos graves triplos ( `` ` ) para formatar o texto como seu próprio bloco distinto.
+Você pode usar acentos graves triplos ( `` ` )  para formatar o texto como seu próprio bloco distinto.
 
 Confira este programa puro que eu escrevi: 
 
-`` ` 
+<code> `` ` </code> 
 x = 0 
 x = 2 + 2 
 que é x 
-`` `
-###Links
+<code> `` ` </code>
+
+### 4.Links
 
 Você pode criar uma ligação em linha por envolvimento link texto entre colchetes ( [] ), e, em seguida, envolver a ligação entre parênteses ( () ).
 
