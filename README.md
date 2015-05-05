@@ -17,11 +17,11 @@ Parágrafos em Markdown são apenas uma ou mais linhas de texto consecutivos seg
 
 Você pode criar um título, adicionando um ou mais # símbolos antes de seu texto de título. O número de # você usa irá determinar o tamanho do título.
 
-> <code>#</code> O maior título (uma tag <code> <h1> </code>) 
+> <code>#</code> O maior título (uma tag h1) 
 
-> <code>##</code> A segunda maior rubrica (uma <code> <h2> </code> tag) 
+> <code>##</code> A segunda maior rubrica (uma h2 tag) 
 
-> <code>######</code> O 6º maior título (uma <code> <h6> </code> tag)
+> <code>######</code> O 6º maior título (uma h6 tag)
 
 ###Blockquotes
 
@@ -41,8 +41,9 @@ Você pode fazer o texto [**em negrito**](https://developer.mozilla.org/en-US/do
 
 Ambos **negrito** e _itálico_ pode usar um * ou um _ em torno do texto para o estilo. Isso permite que você combine os dois, em negrito e itálico, se necessário.
 
-** Todos _deve_ participar da reunião às 5 horas de hoje. **
-### 2.Listas
+> <code> ** Todos _deve_ participar da reunião às 5 horas de hoje. ** </code>
+
+###Listas
 
 ####Listas não ordenadas
 
@@ -70,7 +71,7 @@ Você pode fazer uma [lista ordenada] (https://developer.mozilla.org/en-US/docs/
 
 <code>3.</code>O item 3
 
-###Listas aninhadas
+####Listas aninhadas
 
 Você pode criar listas aninhadas pelo recuo itens da lista por dois espaços.
 
@@ -83,24 +84,26 @@ Você pode criar listas aninhadas pelo recuo itens da lista por dois espaços.
     * Você pode querer considerar fazer uma nova lista. 
 3. Item 3
 
-### 3.A formatação do código
+###A formatação do código
 
 ####Formatos em linha
 
 Use backticks simples ( ` ) para formatar o texto em um formato especial monospace. Tudo dentro dos acentos graves aparecem como está, sem nenhuma outra formatação especial.
 
-Aqui está uma idéia: por que não vamos pegar `SuperiorProject` e transformá-lo em` ** ** project` razoável.
-####Várias linhas
+> <code> Aqui está uma idéia: por que não vamos pegar `SuperiorProject` e transformá-lo em` ** ** project` razoável.</code>
+####Várias linhas 
 
 Você pode usar acentos graves triplos ( `` ` )  para formatar o texto como seu próprio bloco distinto.
 
 Confira este programa puro que eu escrevi: 
 
-<code> `` ` </code> 
+> <code> `` ` </code> 
+
 x = 0 
 x = 2 + 2 
 que é x 
-<code> `` ` </code>
+
+> <code> `` ` </code>
 
 ### 4.Links
 
