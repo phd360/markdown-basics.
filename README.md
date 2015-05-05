@@ -97,17 +97,16 @@ Você pode usar acentos graves triplos ( `` ` )  para formatar o texto como seu 
 
 Confira este programa puro que eu escrevi: 
 
-> <code> `` ` </code> 
-
+> <code> `` </code> <code> ` </code>
 x = 0 
 x = 2 + 2 
 que é x 
 
-> <code> `` ` </code>
+> <code> `` </code>  <code> ` </code>
 
-### 4.Links
+###Links
 
-Você pode criar uma ligação em linha por envolvimento link texto entre colchetes ( [] ), e, em seguida, envolver a ligação entre parênteses ( () ).
+Você pode criar uma ligação em linha por envolvimento link texto entre colchetes (  <code> [] </code> ), e, em seguida, envolver a ligação entre parênteses ( <code> () </code> ).
 
 Por exemplo, para criar um hiperlink para [www.github.com](www.github.com) , com um texto de link que diz, Visita GitHub !, você escreveria isso em Markdown: [Visite GitHub!] (www.github.com) .
 
