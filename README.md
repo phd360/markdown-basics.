@@ -15,7 +15,7 @@ Parágrafos em Markdown são apenas uma ou mais linhas de texto consecutivos seg
 
 ###Títulos
 
-Você pode criar um título, adicionando um ou mais # símbolos antes de seu texto de título. O número de # você usa irá determinar o tamanho do título.
+Você pode criar um título, adicionando um ou mais <code> # </code> símbolos antes de seu texto de título. O número de <code> # </code> você usa irá determinar o tamanho do título.
 
 > <code># O maior título (uma tag h1) </code>
 
@@ -25,7 +25,7 @@ Você pode criar um título, adicionando um ou mais # símbolos antes de seu tex
 
 ###Blockquotes
 
-Você pode indicar [blockquotes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blockquote) com um > .
+Você pode indicar [blockquotes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blockquote) com um <code> > </code> .
 
 > <code> Nas palavras de Abraham Lincoln: </code> 
 
